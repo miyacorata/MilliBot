@@ -1,5 +1,5 @@
 #gem
-vendor/*
+vendor/**
 
 #idea & etc
 .idea/**/workspace.xml
