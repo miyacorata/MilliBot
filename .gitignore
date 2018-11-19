@@ -1,0 +1,10 @@
+#gem
+vendor/*
+
+#idea & etc
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.rubocop.yml
+
+#env
+*.env
